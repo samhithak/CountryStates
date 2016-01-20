@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_name">Country Data</string>
+
+	<string name="hello_world">Hello world!</string>
+
+	<string name="action_settings">Settings</string>
+	<string name="action_add">Add a Country</string>
+	<string name="action_remove">Remove a Country</string>
+
+	<string name="title_horizontal_countries">Horizontal Cards</string>
+	<string name="title_vertical_countries">Vertical Cards</string>
+	<string name="title_list_view_countries">List View</string>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
